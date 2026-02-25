@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vishal<br>👀 I’m interested in web development and machine-learning<br>🌱 I’m currently learning Full Stack Web Development<br>💞️ I’m looking to collaborate on open-source projects<br>😄 Pronouns: He/Him<br>💬 Ask me about React.js, Next.js, python, Mongodb<br>🤝 I’m looking for help with referrals<br>⚡ Fun fact I am a self taught developer even though I am doing an IT degree
+👋 Hi, I’m Vishal<br>👀 I’m interested in web development and machine-learning<br>🌱 I’m currently learning Full Stack Web Development<br>💞️ I’m looking to collaborate on open-source projects<br>😄 Pronouns: He/Him<br>💬 Ask me about React.js, Next.js, python, Mongodb<br>🤝 I’m looking for help with referrals<br>⚡ Fun fact I am a self taught developer.
 
 
 ## 🌐 Socials:
